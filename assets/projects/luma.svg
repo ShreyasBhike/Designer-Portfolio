@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+<rect width="1200" height="800" fill="#f5efe2"/><rect x="50" y="50" width="1100" height="700" rx="18" fill="#fffdf4" stroke="#111" stroke-width="8"/>
+<circle cx="105" cy="105" r="16" fill="#f4a6c8"/><circle cx="155" cy="105" r="16" fill="#f5d84c"/><circle cx="205" cy="105" r="16" fill="#91d9f7"/>
+<text x="90" y="210" font-family="Arial,sans-serif" font-size="72" font-weight="700" fill="#111">LUMA</text>
+<text x="90" y="275" font-family="Arial,sans-serif" font-size="28" fill="#333">skincare, simplified.</text>
+<rect x="90" y="340" width="310" height="300" rx="20" fill="#f4a6c8"/><circle cx="245" cy="490" r="92" fill="#fffdf4"/>
+<rect x="470" y="340" width="590" height="70" rx="12" fill="#111"/><rect x="470" y="440" width="450" height="28" rx="14" fill="#d7d1c3"/><rect x="470" y="495" width="530" height="28" rx="14" fill="#d7d1c3"/><rect x="470" y="550" width="350" height="28" rx="14" fill="#d7d1c3"/>
+</svg>

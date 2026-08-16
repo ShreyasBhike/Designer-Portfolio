@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+<rect width="1200" height="800" fill="#171717"/><rect x="45" y="45" width="1110" height="710" rx="20" fill="#242424" stroke="#fff" stroke-opacity=".25" stroke-width="3"/>
+<text x="85" y="110" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#fff">orbit</text>
+<rect x="85" y="160" width="260" height="540" rx="14" fill="#111"/><rect x="380" y="160" width="700" height="130" rx="14" fill="#303030"/>
+<text x="420" y="220" font-family="Arial,sans-serif" font-size="42" font-weight="700" fill="#fff">Good morning, Maya.</text>
+<rect x="380" y="325" width="330" height="375" rx="14" fill="#2e2e2e"/><rect x="735" y="325" width="345" height="175" rx="14" fill="#f5d84c"/><rect x="735" y="525" width="345" height="175" rx="14" fill="#91d9f7"/>
+<circle cx="600" cy="470" r="90" fill="none" stroke="#b99aef" stroke-width="26" stroke-dasharray="320 250"/>
+</svg>

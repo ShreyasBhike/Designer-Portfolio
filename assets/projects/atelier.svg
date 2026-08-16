@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+<rect width="1200" height="800" fill="#f1efe8"/><text x="70" y="110" font-family="Arial,sans-serif" font-size="26" font-weight="700" fill="#111">ATELIER 27</text>
+<text x="70" y="290" font-family="Georgia,serif" font-size="120" fill="#111">new<br/>forms</text>
+<rect x="760" y="110" width="320" height="560" fill="#f4a6c8" transform="rotate(7 920 390)"/><circle cx="920" cy="390" r="125" fill="#f5d84c"/><path d="M820 520 C900 420 1000 470 1035 335" fill="none" stroke="#111" stroke-width="12"/>
+</svg>

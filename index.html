@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Darshana — Independent UI/UX & Web Designer">
+  <title>Darshana — UI/UX & Web Designer</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="app">
+    <header class="site-header">
+      <nav class="nav shell" aria-label="Primary navigation">
+        <a class="logo" id="logo" href="#top" aria-label="Darshana home"></a>
+        <div class="desktop-nav" id="desktop-nav"></div>
+        <button class="menu-toggle" id="menu-toggle" aria-expanded="false" aria-controls="mobile-nav" aria-label="Open menu">
+          <span></span><span></span><span></span>
+        </button>
+        <div class="mobile-nav" id="mobile-nav" hidden></div>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero section" id="about">
+        <div class="decoration-layer" data-decorations="hero"></div>
+        <div class="shell hero-grid">
+          <div class="hero-copy reveal">
+            <div class="eyebrow handwritten" id="hero-eyebrow"></div>
+            <h1 id="hero-headline"></h1>
+            <p id="hero-description"></p>
+            <div class="hero-actions">
+              <a class="button button-primary" id="hero-primary"></a>
+              <a class="text-link" id="hero-secondary"></a>
+            </div>
+            <div class="availability"><span class="availability-dot"></span><span id="availability"></span></div>
+          </div>
+          <div class="hero-art reveal">
+            <div class="browser-card">
+              <div class="browser-bar">
+                <span></span><span></span><span></span>
+              </div>
+              <div class="browser-screen">
+                <img class="browser-photo" src="assets/avatars/profile.jpg" alt="" onerror="this.style.display='none'" onload="this.parentElement.classList.add('has-photo')">
+                <div class="smile">⌣</div>
+                <div class="screen-copy" id="browser-message"></div>
+              </div>
+            </div>
+            <div class="sticker sticker-bulb"></div>
+            <div class="sticker sticker-burst"></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="tools-strip" aria-label="Tools">
+        <div class="tools-track" id="tools-track"></div>
+      </section>
+
+      <section class="services section" id="services">
+        <div class="decoration-layer" data-decorations="services"></div>
+        <div class="shell">
+          <div class="section-heading reveal">
+            <div>
+              <div class="eyebrow" id="services-eyebrow"></div>
+              <h2 id="services-heading"></h2>
+            </div>
+            <p class="heading-note" id="services-note"></p>
+          </div>
+          <div class="service-layout">
+            <div class="stats-card reveal" id="stats"></div>
+            <div class="services-grid" id="services-grid"></div>
+          </div>
+          <div class="services-gallery" id="services-gallery" hidden></div>
+        </div>
+      </section>
+
+      <section class="portfolio section" id="portfolio">
+        <div class="decoration-layer" data-decorations="portfolio"></div>
+        <div class="shell">
+          <div class="portfolio-heading reveal">
+            <div class="eyebrow" id="portfolio-eyebrow"></div>
+            <h2 id="portfolio-heading"></h2>
+            <p id="portfolio-description"></p>
+          </div>
+          <div class="portfolio-grid" id="portfolio-grid"></div>
+        </div>
+      </section>
+
+      <section class="testimonials section" id="testimonials">
+        <div class="decoration-layer" data-decorations="testimonials"></div>
+        <div class="shell">
+          <div class="section-heading reveal">
+            <div>
+              <div class="eyebrow" id="testimonials-eyebrow"></div>
+              <h2 id="testimonials-heading"></h2>
+            </div>
+            <p class="heading-note" id="testimonials-note"></p>
+          </div>
+          <div class="testimonial-grid" id="testimonial-grid"></div>
+        </div>
+      </section>
+
+      <section class="contact section" id="contact">
+        <div class="decoration-layer" data-decorations="cta"></div>
+        <div class="shell">
+          <div class="cta-card reveal">
+            <div class="eyebrow" id="cta-eyebrow"></div>
+            <h2 id="cta-heading"></h2>
+            <p id="cta-description"></p>
+            <a class="button button-primary" id="cta-button"></a>
+            <small id="cta-small"></small>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="decoration-layer" data-decorations="footer"></div>
+      <div class="shell footer-inner">
+        <a class="logo footer-logo" id="footer-brand" href="#top"></a>
+        <span id="copyright"></span>
+        <span id="location"></span>
+        <div class="socials" id="socials"></div>
+      </div>
+    </footer>
+  </div>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="script.js"></script>
+</body>
+</html>

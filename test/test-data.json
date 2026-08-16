@@ -1,0 +1,436 @@
+{
+  "site": {
+    "title": "Darshana \u2014 UI/UX & Web Designer",
+    "description": "Darshana is an independent UI/UX and web designer creating thoughtful digital experiences, identities, and products.",
+    "year": "2026"
+  },
+  "designer": {
+    "name": "Darshana",
+    "firstName": "Darshana",
+    "role": "Independent UI/UX & Web Designer",
+    "location": "Mumbai, India",
+    "experience": "5+ years",
+    "bio": "I turn messy ideas into clear, characterful digital experiences. I care about the tiny details, the big picture, and making websites feel like they have a pulse.",
+    "availability": "Available for selected projects",
+    "email": "hello@darshana.design"
+  },
+  "navigation": {
+    "logo": "\u2726 Darshana",
+    "links": [
+      {
+        "label": "About",
+        "href": "#about"
+      },
+      {
+        "label": "Portfolio",
+        "href": "#portfolio"
+      },
+      {
+        "label": "Services",
+        "href": "#services"
+      },
+      {
+        "label": "Hire Me",
+        "href": "#contact"
+      }
+    ],
+    "cta": "Hire Me"
+  },
+  "hero": {
+    "eyebrow": "Hi, I'm Darshana",
+    "headline": "I design \u270d\ufe0f digital things people actually want to use.",
+    "description": "UI/UX, websites & visual systems for ambitious brands with something worth saying.",
+    "primaryCta": {
+      "label": "See Portfolio",
+      "href": "#portfolio"
+    },
+    "secondaryCta": {
+      "label": "Let's talk",
+      "href": "mailto:hello@darshana.design"
+    },
+    "browserLabel": "DARSHANA",
+    "browserMessage": "A little bit of strategy. A little bit of chaos. A lot of good design."
+  },
+  "tools": [
+    "Figma",
+    "Framer",
+    "Webflow",
+    "Notion",
+    "Lottie",
+    "FigJam"
+  ],
+  "stats": [
+    {
+      "value": "39+",
+      "label": "Projects"
+    },
+    {
+      "value": "5+",
+      "label": "Years designing"
+    },
+    {
+      "value": "100k+",
+      "label": "Users reached"
+    },
+    {
+      "value": "25+",
+      "label": "Happy clients"
+    }
+  ],
+  "servicesIntro": {
+    "eyebrow": "What I do",
+    "heading": "Services that turn good ideas into great digital experiences.",
+    "note": "Strategy first. Pretty pixels second. Usually."
+  },
+  "services": [
+    {
+      "id": "freelance",
+      "title": "Freelance Client Work",
+      "description": "Independent projects delivered end-to-end, from brief to final files.",
+      "icon": "\u270e",
+      "color": "#f5d84c",
+      "gallery": [
+        "assets/services/freelance-1.svg",
+        "assets/services/freelance-2.svg",
+        "assets/services/freelance-3.svg"
+      ]
+    },
+    {
+      "id": "branding",
+      "title": "Branding Project",
+      "description": "Logos, identities and style guides that give brands a voice.",
+      "icon": "\u25c6",
+      "color": "#b99aef",
+      "gallery": [
+        "assets/services/branding-1.svg",
+        "assets/services/branding-2.svg",
+        "assets/services/branding-3.svg"
+      ]
+    },
+    {
+      "id": "social",
+      "title": "Social Media Designs",
+      "description": "Scroll-stopping posts and templates built for engagement.",
+      "icon": "@",
+      "color": "#ff6b62",
+      "gallery": [
+        "assets/services/social-1.svg",
+        "assets/services/social-2.svg",
+        "assets/services/social-3.svg"
+      ]
+    },
+    {
+      "id": "print",
+      "title": "Print Designs & Invites",
+      "description": "Flyers, cards and invites that feel as good on paper as on screen.",
+      "icon": "\u2709",
+      "color": "#91d9f7",
+      "gallery": [
+        "assets/services/print-1.svg",
+        "assets/services/print-2.svg",
+        "assets/services/print-3.svg"
+      ]
+    },
+    {
+      "id": "art",
+      "title": "Art & Illustrations",
+      "description": "Original artwork and illustrations with a personal touch.",
+      "icon": "\u2727",
+      "color": "#f4a6c8",
+      "gallery": [
+        "assets/services/art-1.svg",
+        "assets/services/art-2.svg",
+        "assets/services/art-3.svg"
+      ]
+    }
+  ],
+  "portfolioIntro": {
+    "eyebrow": "Selected work",
+    "heading": "My Portfolio",
+    "description": "A few recent projects, from first sketch to final pixel."
+  },
+  "portfolio": [
+    {
+      "id": "luma",
+      "title": "Soft Skin, Sharp Identity",
+      "slug": "luma-skincare",
+      "client": "Luma Skincare",
+      "category": "Brand + Web",
+      "year": "2026",
+      "description": "A warm, premium skincare identity and shopping experience built around quiet rituals.",
+      "role": "Brand Designer \u00b7 UI/UX",
+      "services": [
+        "Brand Identity",
+        "Art Direction",
+        "Web Design"
+      ],
+      "tags": [
+        "Beauty",
+        "D2C",
+        "E-commerce"
+      ],
+      "image": "assets/projects/luma.svg",
+      "imageAlt": "Luma skincare website concept with warm pastel packaging",
+      "featured": true,
+      "rotation": -1.2,
+      "accent": "#f4a6c8"
+    },
+    {
+      "id": "sora",
+      "title": "A Softer Kind of Skincare",
+      "slug": "sora-skincare",
+      "client": "Sora",
+      "category": "E-commerce",
+      "year": "2025",
+      "description": "A quiet, editorial storefront for a skincare brand built around everyday rituals.",
+      "role": "Digital Designer",
+      "services": [
+        "Art Direction",
+        "UI Design",
+        "E-commerce"
+      ],
+      "tags": [
+        "Beauty",
+        "Editorial",
+        "Shopify"
+      ],
+      "image": "assets/projects/sora.svg",
+      "imageAlt": "Sora skincare ecommerce concept",
+      "featured": true,
+      "rotation": 1.4,
+      "accent": "#f5d84c"
+    },
+    {
+      "id": "atelier",
+      "title": "New Forms",
+      "slug": "atelier-27",
+      "client": "Atelier 27",
+      "category": "Creative Studio",
+      "year": "2025",
+      "description": "An expressive portfolio for a fashion studio that wanted its website to feel like a moving sketchbook.",
+      "role": "Creative Director \u00b7 Web Designer",
+      "services": [
+        "Creative Direction",
+        "Web Design",
+        "Motion"
+      ],
+      "tags": [
+        "Fashion",
+        "Portfolio",
+        "Editorial"
+      ],
+      "image": "assets/projects/atelier.svg",
+      "imageAlt": "Experimental fashion studio website with oversized typography",
+      "featured": true,
+      "rotation": -1.6,
+      "accent": "#ff6b62"
+    },
+    {
+      "id": "mori",
+      "title": "Little Things, Beautifully Chosen",
+      "slug": "mori-market",
+      "client": "Mori Market",
+      "category": "E-commerce",
+      "year": "2024",
+      "description": "A cheerful shopping experience for a curated marketplace of small independent brands.",
+      "role": "UI/UX Designer",
+      "services": [
+        "UX Strategy",
+        "UI Design",
+        "E-commerce"
+      ],
+      "tags": [
+        "Retail",
+        "Marketplace",
+        "Web"
+      ],
+      "image": "assets/projects/mori.svg",
+      "imageAlt": "Mori Market colorful ecommerce website",
+      "featured": true,
+      "rotation": 0.9,
+      "accent": "#91d9f7"
+    }
+  ],
+  "testimonialsIntro": {
+    "eyebrow": "Kind words",
+    "heading": "Here's what my clients are saying about my work.",
+    "note": "No AI-generated compliments. Promise."
+  },
+  "testimonials": [
+    {
+      "id": "rhea",
+      "quote": "Darshana somehow took the 47 ideas floating around in my head and turned them into one website that actually made sense.",
+      "clientName": "Rhea Malhotra",
+      "clientRole": "Founder",
+      "company": "Luma Skincare",
+      "avatar": "assets/avatars/rhea.svg",
+      "project": "Luma Skincare"
+    },
+    {
+      "id": "samir",
+      "quote": "The best part was how much thought went into the boring stuff. Our product finally feels simple instead of just looking simple.",
+      "clientName": "Samir Rao",
+      "clientRole": "Co-founder",
+      "company": "Orbit",
+      "avatar": "assets/avatars/samir.svg",
+      "project": "Orbit"
+    },
+    {
+      "id": "nina",
+      "quote": "We came in asking for a prettier site. Darshana left us with a clearer brand, a better customer journey, and a site we actually love showing people.",
+      "clientName": "Nina Shah",
+      "clientRole": "Marketing Lead",
+      "company": "Sora",
+      "avatar": "assets/avatars/nina.svg",
+      "project": "Sora"
+    },
+    {
+      "id": "leo",
+      "quote": "She brings the rare combination of strong opinions and a very open mind. Every round got better without ever feeling overworked.",
+      "clientName": "Leo Martin",
+      "clientRole": "Creative Director",
+      "company": "Atelier 27",
+      "avatar": "assets/avatars/leo.svg",
+      "project": "Atelier 27"
+    }
+  ],
+  "cta": {
+    "eyebrow": "Got something interesting?",
+    "heading": "Let's make your next project a little less ordinary.",
+    "description": "Tell me what you're building, what feels stuck, or what you wish your website could do. I'll bring the sticky notes.",
+    "buttonText": "Send me a message",
+    "email": "hello@darshana.design",
+    "smallText": "Currently booking selected projects for Q4 2026."
+  },
+  "footer": {
+    "brand": "\u2726 Darshana",
+    "copyright": "Portfolio 2026",
+    "location": "Mumbai \u00b7 India",
+    "socials": [
+      {
+        "label": "Behance",
+        "short": "Be",
+        "url": "https://behance.net/darshana"
+      },
+      {
+        "label": "Instagram",
+        "short": "Ig",
+        "url": "https://instagram.com/darshana.design"
+      },
+      {
+        "label": "LinkedIn",
+        "short": "Li",
+        "url": "https://linkedin.com/in/darshana"
+      }
+    ]
+  },
+  "decorations": {
+    "hero": [
+      {
+        "type": "star",
+        "x": "3%",
+        "y": "13%",
+        "size": 74,
+        "rotation": -12,
+        "color": "#f4a6c8"
+      },
+      {
+        "type": "sparkle",
+        "x": "92%",
+        "y": "9%",
+        "size": 44,
+        "rotation": 8,
+        "color": "#f4a6c8"
+      },
+      {
+        "type": "burst",
+        "x": "88%",
+        "y": "73%",
+        "size": 54,
+        "rotation": 17,
+        "color": "#ff6b62"
+      },
+      {
+        "type": "scribble",
+        "x": "51%",
+        "y": "7%",
+        "size": 70,
+        "rotation": -5,
+        "color": "#111111"
+      }
+    ],
+    "services": [
+      {
+        "type": "star",
+        "x": "94%",
+        "y": "4%",
+        "size": 45,
+        "rotation": 16,
+        "color": "#f4a6c8"
+      },
+      {
+        "type": "sparkle",
+        "x": "4%",
+        "y": "88%",
+        "size": 42,
+        "rotation": -8,
+        "color": "#91d9f7"
+      }
+    ],
+    "portfolio": [
+      {
+        "type": "burst",
+        "x": "86%",
+        "y": "2%",
+        "size": 48,
+        "rotation": -14,
+        "color": "#b99aef"
+      },
+      {
+        "type": "scribble",
+        "x": "10%",
+        "y": "95%",
+        "size": 62,
+        "rotation": 5,
+        "color": "#111111"
+      }
+    ],
+    "testimonials": [
+      {
+        "type": "sparkle",
+        "x": "93%",
+        "y": "8%",
+        "size": 42,
+        "rotation": 15,
+        "color": "#f5d84c"
+      },
+      {
+        "type": "star",
+        "x": "4%",
+        "y": "72%",
+        "size": 48,
+        "rotation": -10,
+        "color": "#ff6b62"
+      }
+    ],
+    "cta": [
+      {
+        "type": "burst",
+        "x": "92%",
+        "y": "-10%",
+        "size": 62,
+        "rotation": 12,
+        "color": "#f4a6c8"
+      },
+      {
+        "type": "arrow",
+        "x": "80%",
+        "y": "74%",
+        "size": 48,
+        "rotation": 14,
+        "color": "#111111"
+      }
+    ],
+    "footer": []
+  }
+}

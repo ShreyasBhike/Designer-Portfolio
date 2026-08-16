@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+<rect width="1200" height="800" fill="#e9eef6"/><rect x="360" y="35" width="480" height="730" rx="54" fill="#111" stroke="#111" stroke-width="12"/>
+<rect x="385" y="75" width="430" height="650" rx="35" fill="#fffdf4"/><circle cx="600" cy="100" r="6" fill="#111"/>
+<text x="425" y="165" font-family="Arial,sans-serif" font-size="22" fill="#555">NOVA</text><text x="425" y="225" font-family="Arial,sans-serif" font-size="54" font-weight="700" fill="#111">$24,860</text><text x="425" y="260" font-family="Arial,sans-serif" font-size="18" fill="#4b8c6b">+12.8% this month</text>
+<rect x="425" y="310" width="350" height="150" rx="20" fill="#b99aef"/><polyline points="450,420 500,390 550,410 600,350 650,375 700,325 755,350" fill="none" stroke="#111" stroke-width="8"/>
+<rect x="425" y="495" width="160" height="65" rx="18" fill="#f5d84c"/><rect x="615" y="495" width="160" height="65" rx="18" fill="#91d9f7"/>
+<rect x="425" y="600" width="350" height="55" rx="15" fill="#eeeae0"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+<rect width="1200" height="800" fill="#fffdf4"/><rect x="55" y="55" width="1090" height="690" rx="18" fill="#91d9f7" stroke="#111" stroke-width="7"/>
+<text x="105" y="150" font-family="Arial,sans-serif" font-size="70" font-weight="700" fill="#111">MORI MARKET</text>
+<text x="105" y="205" font-family="Arial,sans-serif" font-size="22" fill="#111">little things, beautifully chosen.</text>
+<rect x="105" y="285" width="300" height="320" fill="#fffdf4"/><rect x="450" y="285" width="300" height="320" fill="#f5d84c"/><rect x="795" y="285" width="300" height="320" fill="#f4a6c8"/>
+<circle cx="255" cy="445" r="95" fill="#b99aef"/><path d="M525 500 C570 350 670 350 710 500" fill="none" stroke="#111" stroke-width="16"/><rect x="875" y="380" width="140" height="130" rx="20" fill="#fffdf4" transform="rotate(-8 945 445)"/>
+</svg>
